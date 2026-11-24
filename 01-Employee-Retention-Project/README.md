@@ -52,7 +52,7 @@ The dashboard gives a interactive view of employees who have left, how salaries 
 
 ## 📂 Repository Contents
 
-- `Screenshots/` – Dashboard preview.
+- `Screenshot/` – Dashboard preview.
 - `README.md` – Project overview and documentation.
 - `Employee Retention.pbix` – Power BI report file.
 
