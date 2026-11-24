@@ -44,7 +44,7 @@ The dashboard gives a interactive view of employees who have left, how salaries 
 - Sales has the highest employee exits among the departments displayed.
 - Employees in the above-80% performance group represent the largest exit count among the displayed performance groups.
 - Sales has the highest number of projects among the displayed departments.
-- The overall employee attrition rate is approximately 23.81%.
+- The overall employee attrition rate is approximately 23.8%.
 
 ## 📷 Dashboard Preview
 
