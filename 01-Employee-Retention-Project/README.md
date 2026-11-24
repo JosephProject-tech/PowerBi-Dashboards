@@ -48,7 +48,7 @@ The dashboard gives a interactive view of employees who have left, how salaries 
 
 ## 📷 Dashboard Preview
 
-<img width="1157" height="652" alt="HR-Capstone-Dashboard" src="https://github.com/user-attachments/assets/4fba2ae1-6623-4bf9-b7cc-54a2905a2b18" />
+<img width="1157" height="652" alt="Employee Retention" src="https://github.com/user-attachments/assets/2fc1a632-429a-4e54-ba81-5c53df9863d5" />
 
 ## 📂 Repository Contents
 
